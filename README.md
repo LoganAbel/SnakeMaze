@@ -7,6 +7,12 @@
 4. **Run main.py** - in the folder containing main.py type `cmd` in the address bar of file explorer,
   and then run `python main.py` in the terminal
 
+----- or -----
+
+Downlaod main.exe and put it in the folder with main.py, and then click to run
+
+[link to main.exe](https://drive.google.com/file/d/1RO-K5krrqFtRa_vajFMOaXHvLYRFrOnX/view?usp=sharing)
+
 ## How To Play
 
 **\[ESC\]** button to exit the current level/menu
